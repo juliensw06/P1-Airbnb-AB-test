@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "DuckDB",
+            "name": "airbnb_local",
+            "database": "airbnbDB.duckdb",
+            "readOnly": false
+        }
+    ]
+}
